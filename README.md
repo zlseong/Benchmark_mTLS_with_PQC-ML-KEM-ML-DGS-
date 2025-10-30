@@ -1,6 +1,4 @@
-# PQC_hybrid-TLS
-
-# PQC_hybrid-mTLS
+# Benchmark of PQC_hybrid-TLS
 
 양자 내성(PQC) 알고리즘과 기존 암호를 혼합한 하이브리드 mTLS 실험용 레포지토리입니다. 서버/클라이언트 간 TLS 핸드셰이크 성능과 성공률을 측정하고, JSON/콘솔 형태로 결과를 출력합니다.
 
